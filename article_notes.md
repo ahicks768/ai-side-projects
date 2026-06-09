@@ -4,3 +4,5 @@ Content was largely the same between all three.
     Third prompt was structured a bit differently with the prompt, so maybe easier to process
 
 Ultimately, the material was nearly identical.  Just the organization of the response and it's voice varied
+
+For the scoring, it was interesting to see that Gemini rated Claude perfectly in every prompt.  Presumably, this has more to do with the models being similar than a somewhat 'objective' improvement over ChatGPT.
