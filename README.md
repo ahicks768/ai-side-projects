@@ -9,7 +9,7 @@ prompts, with Gemini acting as an automated judge to score outputs.
 3. Activate it: `source venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Create a `.env` file with your API keys (see `.env.example`)
-6. Run: `python3 read_and_score_article.py`
+6. Run: `python3 read_score_article_update.py`
 
 ## Sample Output
 === Claude — Prompt 3 ===
